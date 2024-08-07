@@ -1,7 +1,5 @@
 import socket
 
-
-
 ip = input("Digite o host ou IP a ser verificado: ") #Para o cliente definir o host
 
 ports = []
